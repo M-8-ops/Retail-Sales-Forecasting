@@ -76,6 +76,7 @@ git clone https://github.com/yourusername/Retail_Sales_Forecasting.git
 🤝 Let's Connect!
 If this project aligns with your goals or interests, feel free to connect or collaborate:
 
-📇 Tony Ochieng on LinkedIn
+📇 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tony%20Ochieng-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tony-ochieng-376439295)
+
 
 
